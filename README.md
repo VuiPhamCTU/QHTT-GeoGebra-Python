@@ -66,7 +66,7 @@ Các đề bài được trích nhằm mục đích minh họa dạy học, thu�
 - Hà Huy Khoái (Tổng Chủ biên) và cộng sự (2022). *Toán 10, tập một* – bộ sách Kết nối tri thức với cuộc sống. NXB Giáo dục Việt Nam.
 - Hà Huy Khoái (Tổng Chủ biên) và cộng sự (2024). *Chuyên đề học tập Toán 12* – bộ sách Kết nối tri thức với cuộc sống. NXB Giáo dục Việt Nam.
 - Bộ Giáo dục và Đào tạo (2025). Đề thi tốt nghiệp THPT năm 2025, môn Toán.
-- Bài tập học phần Quy hoạch tuyến tính (đơn hình, bài toán vận tải): Quy hoạch tuyến tính, Phạm Thị Vui, Lê Phương Thảo, NXB ĐH Cần Thơ, 2025.
+- Bài tập học phần Quy hoạch tuyến tính (đơn hình, bài toán vận tải): _Quy hoạch tuyến tính_, Phạm Thị Vui, Lê Phương Thảo, NXB ĐH Cần Thơ, 2025.
 
 ## 5. Giấy phép
 
