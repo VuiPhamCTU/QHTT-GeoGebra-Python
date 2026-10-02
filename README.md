@@ -8,7 +8,7 @@ Kho học liệu mở của đề tài nghiên cứu khoa học sinh viên **“
 
 Kho gồm **3 sổ tay (notebook) Python** chạy trên Google Colab và **9 tệp mô phỏng GeoGebra**. Các tệp GeoGebra được **sinh tự động từ Python**, và mọi kết quả đều được **kiểm chứng chéo** giữa bộ giải Python, GeoGebra và thư viện SciPy.
 
-![Mô phỏng GeoGebra – Bài 2.4](geogebra/anh_chup/Bai_2_4_Lop12_2_toi_uu.png)
+![Mô phỏng GeoGebra – Bài 2.4](Bai_2_4_Lop12_2_toi_uu.png)
 
 ---
 
@@ -18,9 +18,9 @@ Bấm nút **Open in Colab** để mở và chạy trực tiếp trên trình du
 
 | Notebook | Nội dung | Đối tượng | Mở |
 |---|---|---|---|
-| `QHTT_THPT_Lop10_Lop12_phuong_phap_hinh_hoc.ipynb` | Bộ giải hình học bài toán QHTT hai ẩn; 9 bài toán lớp 10, chuyên đề lớp 12 và đề thi TN THPT 2025; lời giải 5 bước, hình vẽ, thanh trượt đường mức, lệnh GeoGebra, kiểm chứng | GV, HS THPT, SV | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VuiPhamCTU/QHTT-GeoGebra-Python/blob/main/notebooks/QHTT_THPT_Lop10_Lop12_phuong_phap_hinh_hoc.ipynb) |
-| `Chuong1_QHTT_hinh_hoc_don_hinh_BigM_hai_pha.ipynb` | Phương pháp đơn hình, bài toán M (M dạng ký hiệu), hai pha, đơn hình đối ngẫu; so sánh bốn phương pháp trên cùng một bài toán | SV Sư phạm Toán | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VuiPhamCTU/QHTT-GeoGebra-Python/blob/main/notebooks/Chuong1_QHTT_hinh_hoc_don_hinh_BigM_hai_pha.ipynb) |
-| `Chuong3_Bai_toan_van_tai.ipynb` | Bài toán vận tải: thuật toán thế vị, bài toán không cân bằng, có ô cấm | SV Sư phạm Toán (mở rộng) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VuiPhamCTU/QHTT-GeoGebra-Python/blob/main/notebooks/Chuong3_Bai_toan_van_tai.ipynb) |
+| `QHTT_THPT_Lop10_Lop12_phuong_phap_hinh_hoc.ipynb` | Bộ giải hình học bài toán QHTT hai ẩn; 9 bài toán lớp 10, chuyên đề lớp 12 và đề thi TN THPT 2025; lời giải 5 bước, hình vẽ, thanh trượt đường mức, lệnh GeoGebra, kiểm chứng | GV, HS THPT, SV | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VuiPhamCTU/QHTT-GeoGebra-Python/blob/main/QHTT_THPT_Lop10_Lop12_phuong_phap_hinh_hoc.ipynb) |
+| `Chuong1_QHTT_hinh_hoc_don_hinh_BigM_hai_pha.ipynb` | Phương pháp đơn hình, bài toán M (M dạng ký hiệu), hai pha, đơn hình đối ngẫu; so sánh bốn phương pháp trên cùng một bài toán | SV Sư phạm Toán | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VuiPhamCTU/QHTT-GeoGebra-Python/blob/main/Chuong1_QHTT_hinh_hoc_don_hinh_BigM_hai_pha.ipynb) |
+| `Chuong3_Bai_toan_van_tai.ipynb` | Bài toán vận tải: thuật toán thế vị, bài toán không cân bằng, có ô cấm | SV Sư phạm Toán (mở rộng) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VuiPhamCTU/QHTT-GeoGebra-Python/blob/main/Chuong3_Bai_toan_van_tai.ipynb) |
 
 **Giải bài toán của bạn:** mỗi notebook có mục **Mẫu** ở cuối. Ví dụ với bộ giải hình học:
 
@@ -50,14 +50,14 @@ Mở tại [geogebra.org/classic](https://www.geogebra.org/classic): **Menu (☰
 | `Bai_2_5_Lop12.ggb` | Vitamin cho thức ăn gà (CĐ 12) | F nhỏ nhất = 4 560 tại (5; 1) | Bốn ràng buộc, miền không bị chặn |
 | `De_TN_THPT_2025.ggb` | Đề thi tốt nghiệp THPT 2025 | F lớn nhất = 2 650 tại (30; 35) | Nghiệm nguyên |
 
-**Cấu trúc chung của mỗi tệp:** miền nghiệm và các đường biên; các đỉnh kèm tọa độ; hàm mục tiêu `F(x, y)` và giá trị tại các đỉnh `F_A, F_B, …`; **thanh trượt k** điều khiển đường mức; **điểm P** kéo được trong miền nghiệm kèm giá trị `F_P`; ô **“Hiện đáp án”** để học sinh dự đoán trước rồi tự kiểm tra. Thư mục `geogebra/anh_chup/` có ảnh mỗi tệp ở trạng thái ban đầu và khi đạt tối ưu.
+**Cấu trúc chung của mỗi tệp:** miền nghiệm và các đường biên; các đỉnh kèm tọa độ; hàm mục tiêu `F(x, y)` và giá trị tại các đỉnh `F_A, F_B, …`; **thanh trượt k** điều khiển đường mức; **điểm P** kéo được trong miền nghiệm kèm giá trị `F_P`; ô **“Hiện đáp án”** để học sinh dự đoán trước rồi tự kiểm tra. Các tệp ảnh `.png` (đuôi `_1_ban_dau`, `_2_toi_uu`) là ảnh mỗi tệp ở trạng thái ban đầu và khi đạt tối ưu.
 
 **Tự dựng lại bằng lệnh:** chạy ô bài toán tương ứng trong notebook THPT, sao chép từng dòng trong phần *LỆNH GEOGEBRA* và dán vào ô **Nhập** của GeoGebra Classic.
 
 ## 3. Tài liệu
 
-- `docs/Huong_dan_san_pham_GeoGebra.pdf` (và bản `.docx`): mô tả cấu trúc tệp, cách sử dụng, câu hỏi gợi ý cho từng bài.
-- `phieu_khao_sat/`: mẫu phiếu khảo sát thực trạng năng lực số và phiếu đánh giá mức độ đáp ứng của sản phẩm (công cụ nghiên cứu của đề tài).
+- `Huong_dan_san_pham_GeoGebra.pdf` (và bản `.docx`): mô tả cấu trúc tệp, cách sử dụng, câu hỏi gợi ý cho từng bài.
+- `Phieu_khao_sat_thuc_trang_nang_luc_so.docx`, `Phieu_danh_gia_muc_do_dap_ung_GeoGebra_Python.docx`: mẫu phiếu khảo sát thực trạng năng lực số và phiếu đánh giá mức độ đáp ứng của sản phẩm (công cụ nghiên cứu của đề tài).
 
 ## 4. Nguồn bài toán
 
@@ -66,7 +66,7 @@ Các đề bài được trích nhằm mục đích minh họa dạy học, thu�
 - Hà Huy Khoái (Tổng Chủ biên) và cộng sự (2022). *Toán 10, tập một* – bộ sách Kết nối tri thức với cuộc sống. NXB Giáo dục Việt Nam.
 - Hà Huy Khoái (Tổng Chủ biên) và cộng sự (2024). *Chuyên đề học tập Toán 12* – bộ sách Kết nối tri thức với cuộc sống. NXB Giáo dục Việt Nam.
 - Bộ Giáo dục và Đào tạo (2025). Đề thi tốt nghiệp THPT năm 2025, môn Toán.
-- Bài tập học phần Quy hoạch tuyến tính (đơn hình, bài toán vận tải): _Quy hoạch tuyến tính_, Phạm Thị Vui, Lê Phương Thảo, NXB ĐH Cần Thơ, 2025.
+- Bài tập học phần Quy hoạch tuyến tính (đơn hình, bài toán vận tải): Quy hoạch tuyến tính, Phạm Thị Vui, Lê Phương Thảo, NXB ĐH Cần Thơ, 2025.
 
 ## 5. Giấy phép
 
