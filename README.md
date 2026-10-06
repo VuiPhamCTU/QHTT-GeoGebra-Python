@@ -61,7 +61,7 @@ Mở tại [geogebra.org/classic](https://www.geogebra.org/classic): **Menu (☰
 ## 3. Tài liệu
 
 - `Huong_dan_san_pham_GeoGebra.pdf` (và bản `.docx`): mô tả cấu trúc tệp, cách sử dụng, câu hỏi gợi ý cho từng bài.
-- `Phieu_khao_sat_thuc_trang_nang_luc_so.docx`, `Phieu_danh_gia_muc_do_dap_ung_GeoGebra_Python.docx`: mẫu phiếu khảo sát thực trạng năng lực số và phiếu đánh giá mức độ đáp ứng của sản phẩm (công cụ nghiên cứu của đề tài).
+- `Phieu_khao_sat_thuc_trang_nang_luc_so.docx`, `Phieu_danh_gia_muc_do_dap_ung_GeoGebra_Python.docx`: mẫu phiếu khảo sát thực trạng năng lực số và phiếu đánh giá mức độ đáp ứng của sản phẩm nhằm hoàn thiện sản phẩm, tăng hiệu quả cho người dùng.
 
 ## 4. Góp ý sau khi sử dụng
 
@@ -81,7 +81,7 @@ Các đề bài được trích nhằm mục đích minh họa dạy học, thu�
 - Hà Huy Khoái (Tổng Chủ biên) và cộng sự (2022). *Toán 10, tập một* – bộ sách Kết nối tri thức với cuộc sống. NXB Giáo dục Việt Nam.
 - Hà Huy Khoái (Tổng Chủ biên) và cộng sự (2024). *Chuyên đề học tập Toán 12* – bộ sách Kết nối tri thức với cuộc sống. NXB Giáo dục Việt Nam.
 - Bộ Giáo dục và Đào tạo (2025). Đề thi tốt nghiệp THPT năm 2025, môn Toán.
-- Bài tập học phần Quy hoạch tuyến tính (đơn hình, bài toán vận tải): Quy hoạch tuyến tính, Phạm Thị Vui, Lê Phương Thảo, NXB ĐH Cần Thơ, 2025.
+- Bài tập học phần Quy hoạch tuyến tính (đơn hình, bài toán vận tải): _Quy hoạch tuyến tính_, Phạm Thị Vui, Lê Phương Thảo, NXB ĐH Cần Thơ, 2025.
 
 ## 6. Giấy phép
 
@@ -89,7 +89,6 @@ Các đề bài được trích nhằm mục đích minh họa dạy học, thu�
 - **Tài liệu, tệp GeoGebra và hình ảnh** do nhóm tạo: giấy phép **CC BY 4.0** – được sử dụng, chỉnh sửa, chia sẻ với điều kiện ghi nguồn.
 - Đề bài trích từ sách giáo khoa và đề thi **không** thuộc phạm vi các giấy phép trên.
 
-Chi tiết xem tệp [LICENSE](LICENSE).
 
 ## 7. Trích dẫn
 
