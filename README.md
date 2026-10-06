@@ -65,14 +65,14 @@ Mở tại [geogebra.org/classic](https://www.geogebra.org/classic): **Menu (☰
 
 ## 4. Góp ý sau khi sử dụng
 
-Nhóm rất mong nhận được ý kiến của bạn sau khi dùng thử notebook và các tệp GeoGebra. Phiếu gồm 3 phần (thông tin chung, đánh giá từng sản phẩm theo thang 1–5, khả năng giải quyết rào cản và đề xuất), mất khoảng 5 phút; không bắt buộc ghi họ tên.
+Nhóm rất mong nhận được ý kiến của bạn sau khi dùng thử notebook và các tệp GeoGebra. Phiếu khảo sát ngắn nhằm đánh giá sản phẩm để hoàn thiện khả năng giải quyết rào cản và đề xuất, không bắt buộc ghi họ tên.
 
 <p align="center">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLScNqxvL5WIb8PxsOMvBbOrmmGTwV56bMyRV8-Nb_2Zvj225iw/viewform"><img src="QR_Phieu_danh_gia.png" alt="Mã QR phiếu đánh giá" width="220"></a><br>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLScNqxvL5WIb8PxsOMvBbOrmmGTwV56bMyRV8-Nb_2Zvj225iw/viewform"><b>👉 Mở Phiếu đánh giá mức độ đáp ứng của sản phẩm</b></a>
 </p>
 
-Mọi góp ý, báo lỗi khác có thể gửi qua mục **Issues** của kho này.
+
 
 ## 5. Nguồn bài toán
 
