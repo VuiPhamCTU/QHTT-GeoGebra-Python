@@ -10,6 +10,10 @@ Kho gồm **3 sổ tay (notebook) Python** chạy trên Google Colab và **9 t�
 
 ![Mô phỏng GeoGebra – Bài 2.4](Bai_2_4_Lop12_2_toi_uu.png)
 
+> 📝 **Sau khi dùng thử, xin bạn dành khoảng 5 phút điền [Phiếu đánh giá mức độ đáp ứng của sản phẩm](https://docs.google.com/forms/d/e/1FAIpQLScNqxvL5WIb8PxsOMvBbOrmmGTwV56bMyRV8-Nb_2Zvj225iw/viewform).** Ý kiến của bạn giúp nhóm hoàn thiện học liệu và là dữ liệu cho đề tài.
+>
+> [![Góp ý sản phẩm](https://img.shields.io/badge/G%C3%B3p%20%C3%BD-%C4%90i%E1%BB%81n%20phi%E1%BA%BFu%20%C4%91%C3%A1nh%20gi%C3%A1-34A853?logo=googleforms&logoColor=white)](https://docs.google.com/forms/d/e/1FAIpQLScNqxvL5WIb8PxsOMvBbOrmmGTwV56bMyRV8-Nb_2Zvj225iw/viewform)
+
 ---
 
 ## 1. Notebook Python (Google Colab)
@@ -59,7 +63,18 @@ Mở tại [geogebra.org/classic](https://www.geogebra.org/classic): **Menu (☰
 - `Huong_dan_san_pham_GeoGebra.pdf` (và bản `.docx`): mô tả cấu trúc tệp, cách sử dụng, câu hỏi gợi ý cho từng bài.
 - `Phieu_khao_sat_thuc_trang_nang_luc_so.docx`, `Phieu_danh_gia_muc_do_dap_ung_GeoGebra_Python.docx`: mẫu phiếu khảo sát thực trạng năng lực số và phiếu đánh giá mức độ đáp ứng của sản phẩm (công cụ nghiên cứu của đề tài).
 
-## 4. Nguồn bài toán
+## 4. Góp ý sau khi sử dụng
+
+Nhóm rất mong nhận được ý kiến của bạn sau khi dùng thử notebook và các tệp GeoGebra. Phiếu gồm 3 phần (thông tin chung, đánh giá từng sản phẩm theo thang 1–5, khả năng giải quyết rào cản và đề xuất), mất khoảng 5 phút; không bắt buộc ghi họ tên.
+
+<p align="center">
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLScNqxvL5WIb8PxsOMvBbOrmmGTwV56bMyRV8-Nb_2Zvj225iw/viewform"><img src="QR_Phieu_danh_gia.png" alt="Mã QR phiếu đánh giá" width="220"></a><br>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLScNqxvL5WIb8PxsOMvBbOrmmGTwV56bMyRV8-Nb_2Zvj225iw/viewform"><b>👉 Mở Phiếu đánh giá mức độ đáp ứng của sản phẩm</b></a>
+</p>
+
+Mọi góp ý, báo lỗi khác có thể gửi qua mục **Issues** của kho này.
+
+## 5. Nguồn bài toán
 
 Các đề bài được trích nhằm mục đích minh họa dạy học, thuộc bản quyền của các tác giả và nhà xuất bản:
 
@@ -68,7 +83,7 @@ Các đề bài được trích nhằm mục đích minh họa dạy học, thu�
 - Bộ Giáo dục và Đào tạo (2025). Đề thi tốt nghiệp THPT năm 2025, môn Toán.
 - Bài tập học phần Quy hoạch tuyến tính (đơn hình, bài toán vận tải): Quy hoạch tuyến tính, Phạm Thị Vui, Lê Phương Thảo, NXB ĐH Cần Thơ, 2025.
 
-## 5. Giấy phép
+## 6. Giấy phép
 
 - **Mã nguồn** (các ô code trong notebook): giấy phép **MIT**.
 - **Tài liệu, tệp GeoGebra và hình ảnh** do nhóm tạo: giấy phép **CC BY 4.0** – được sử dụng, chỉnh sửa, chia sẻ với điều kiện ghi nguồn.
@@ -76,6 +91,6 @@ Các đề bài được trích nhằm mục đích minh họa dạy học, thu�
 
 Chi tiết xem tệp [LICENSE](LICENSE).
 
-## 6. Trích dẫn
+## 7. Trích dẫn
 
 > Đặng Nguyễn Minh Tuân, Trần Thị Tuyết Nhung, Nguyễn Văn Nhẫn, & Ngô Trần Duy Thịnh (2026). *Mô hình kết hợp GeoGebra – Python trong dạy và học Quy hoạch tuyến tính* [Kho học liệu mở]. Đề tài NCKH sinh viên TSV2026-211, Trường Sư phạm, Đại học Cần Thơ. https://github.com/VuiPhamCTU/QHTT-GeoGebra-Python
